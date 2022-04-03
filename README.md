@@ -5,5 +5,7 @@ An exploratory study has been performed on the variation of three important comp
 2. Distance of separation between the primary and secondary transmitters
 3. Reflection coefficient
 
-Our proposed model - 
+The work described in this study is benchmarked against two base models - Nakagami fading model and Rayleigh.
+
+Proposed ambient backscatter communication system - 
 ![alt text](https://github.com/sesh1810/Ambient-Backscattering/blob/main/graphs/model.jpg)
